@@ -4,7 +4,8 @@ Phase III of The Crime INTEL Framework - Criminal AI - Crime Intelligence Gather
 ## Phase 3 to-do 
 - humint collection management module.
 - modify c2 intf.
-- train modified CIG model,
+- train modified CIG model.
+- rewrite in C/Rust
 
 ### private modules
 - snake oil
