@@ -6,6 +6,7 @@ Phase III of The Crime INTEL Framework - Criminal AI - Crime Intelligence Gather
 - modify c2 intf.
 - train modified CIG model.
 - rewrite in C/Rust
+- sock puppet c2
 
 ### private modules
 - snake oil
